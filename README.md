@@ -1,4 +1,4 @@
-# 🤖 **Real Estate Research Platform**
+# 🤖 **Real Estate Research Tool**
 I have build a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the real-estate domain. (But it's features can be extended to any domain.)
 
 <img width="1907" height="893" alt="Image" src="https://github.com/user-attachments/assets/216df5f2-813f-44fc-895c-cf4b95212882" />
